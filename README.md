@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irish Mae!</h1>
 <h3 align="center">Learner and explorer:></h3>
 
-<img alt = "Cat Universe" align = "right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI4azR6Y3BueW10OHA4dDlya3k5bHQ4YmJzZjdmeXBrYTRlMDZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy-downsized-large.gif" width="400" height="290" style="max-width: 100%;">
-
+<iframe src="https://giphy.com/embed/rS6hNEBJYqy3Tfo9yS" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GitHub-transparent-rS6hNEBJYqy3Tfo9yS">via GIPHY</a></p>
 # 💫 About Me:
 🌱 I’m currently learning the Fundamentals of Cybersecurity<br><br>
 📫 You can reach me at tagayloirishlabis@gmail.com
