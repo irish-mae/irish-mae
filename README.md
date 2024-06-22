@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irish Mae!</h1>
 <h3 align="center">Learner and explorer:></h3>
-<img align = "center" alt = "Me" height = "100%" width = "100%" style="max-width: 100%;" src = "Capture1234.PNG" >
+<img align = "center" alt = "Me" height = "100%" width = "100%" style="max-width: 100%;" src = "C12.PNG" >
 
 # 💫 About Me:
 🌱 I’m currently learning the Fundamentals of Cybersecurity<br><br>
