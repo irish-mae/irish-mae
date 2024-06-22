@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Irish Mae!</h1>
 <h3 align="center">Learner and explorer:></h3>
+<img align = "center" alt = "Me" height = "100%" width = "100%" style="max-width: 100%;" src = "Capture1234.PNG" >
 
-<iframe src="https://giphy.com/embed/rS6hNEBJYqy3Tfo9yS" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GitHub-transparent-rS6hNEBJYqy3Tfo9yS">via GIPHY</a></p>
 # 💫 About Me:
 🌱 I’m currently learning the Fundamentals of Cybersecurity<br><br>
 📫 You can reach me at tagayloirishlabis@gmail.com
+
+<img align = "right" alt = "Octocat coder" width="600" height="600" style="max-width: 100%;" src = "octocat-1719035731668.png">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/2tpmlk4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/irish-tagaylo) 
@@ -18,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=irish-mae&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
